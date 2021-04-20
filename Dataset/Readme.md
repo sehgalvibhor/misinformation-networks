@@ -1,7 +1,7 @@
 ## Dataset Documentation
 
 ### Data Sources
-* BS Detector {https://www.kaggle.com/mrisdal/fake-news}: This data set is based on the "BS detector" browser extension (https://github.com/Bastlynn/bs-detector). This extension uses a manually curated list of misinformational domains to label linked articles as reliable or not. This data set consists of 244 unique domains.
+* BS Detector (https://www.kaggle.com/mrisdal/fake-news): This data set is based on the "BS detector" browser extension (https://github.com/Bastlynn/bs-detector). This extension uses a manually curated list of misinformational domains to label linked articles as reliable or not. This data set consists of 244 unique domains.
 
 * Columbia Journalism Review (https://www.cjr.org/fake-beta\#methodology): This dataset consists of manually curated misinformational stories scraped from Factcheck (https://www.factcheck.org/2017/07/websites-post-fake-satirical-stories/), Fake News Codex (http://www.fakenewscodex.com/), OpenSources (http://www.opensources.co/), PolitiFact (https://www.politifact.com/) and Snopes (https://www.snopes.com/). This data set consists of 155 unique domains.
 
