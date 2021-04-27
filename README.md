@@ -10,8 +10,7 @@ The data crawling, processing and prediction code are present in the 'Code' fold
 Complete datasets of misinformation and information domains are present in the 'Dataset' folder.
 
 ### Paper
-If you use this dataset/script, please consider citing our work
-PDF : https://arxiv.org/pdf/2104.11694.pdf
+If you use this dataset/script, please consider citing our work (https://arxiv.org/pdf/2104.11694.pdf)
 
 ```
 @misc{sehgal2021mutual,
